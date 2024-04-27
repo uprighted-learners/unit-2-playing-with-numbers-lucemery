@@ -9,3 +9,11 @@ Try the following and console log the result:
 
 Add your code below
 */
+
+console.log(2 + 2)
+console.log(2 * 3)
+console.log(10/2)
+console.log(2**2)
+
+console.log(2**53 + 1);
+console.log(2**53 + 3);
