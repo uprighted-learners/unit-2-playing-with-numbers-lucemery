@@ -17,3 +17,7 @@ console.log(2**2)
 
 console.log(2**53 + 1);
 console.log(2**53 + 3);
+
+
+// What have I noticed about math in Javascript?
+// A: Javascript has many of the same operators (or functions) as math.

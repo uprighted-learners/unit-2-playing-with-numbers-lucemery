@@ -31,3 +31,5 @@ console.log(Infinity - Infinity);
 ## Final Question
 
 What have you noticed about math in JavaScript?
+
+Answer: Javascript has many of the same operators as math. 
